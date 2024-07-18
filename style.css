@@ -12,7 +12,7 @@ list-style:none;
 #menu ul li{
     background-color: #090101;
     border: 1px solid #f4f6f7;
-    width: 269px;
+    width: 266px;
     height: 40px;
     text-align: center;
     line-height: 40px;
@@ -43,4 +43,42 @@ display: block;
 {
 display: block;
 }
+
+#outerbox
+{
+
+}
+
+#slierbox
+{
+ position: relative;
+ animation-duration: 5s;
+ animation-name: slide;
+}
+#slierbox img
+{
+    float: left;
+
+}
+@keyframes slide
+{
+   
+    form
+{
+    left: 0px;
+
+
+}
+to
+{
+ left: -1280px
+}
+
+
+}
+
+
+
+
+
 
