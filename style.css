@@ -1,3 +1,23 @@
-body{
-    background-color: rgb(163, 219, 200);
+#menu ul
+ {
+list-style:none;
+}
+
+#menu ul li{
+    background-color: #090101;
+    border: 2px solid #f4f6f7;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+
+#menu ul li a
+
+{
+text-decoration: none;
+color: white;
+display: block;
+
 }
